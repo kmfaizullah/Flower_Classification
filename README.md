@@ -10,6 +10,8 @@ This is a flower classification project using convolutional neural network. This
 ## Data-set
 <p>Keep the flower data into the five subfolders of flower_photos.<br/> Link : https://www.kaggle.com/alxmamaev/flowers-recognition </p>
 <img src="Images/train.png">
+## Model Diagram
+
 
 
 
