@@ -17,5 +17,14 @@ This is a flower classification project using convolutional neural network. This
 ## Model Diagram
 <img src="Images/diagram.png">
 
+## Training Testing
+<img src="Images/traingTesting.png">
+
+## Results
+<p><h5> X-axis indicares predicted class and Y-axis indicates original class. </h5> </p>
+<img src="Images/test_img.png" width="1050" height="350">
+
+
+
 
 
