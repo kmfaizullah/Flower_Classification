@@ -1,5 +1,5 @@
 # Flower_Classification using TensorFlow
-This is a flower classification project using convolutional neural network. This project can classify five types of flower images which are Tulip, Daisy, Roses, Sunflowers and Dadelion with a accuracy of 73% after 15 epochs. There are 3670 flower images which are divided into five subfloders according to the name of their class. 
+This is a flower classification project using convolutional neural network. This project can classify five types of flower images which are Tulip, Daisy, Roses, Sunflowers and Dadelion with a accuracy of 73% after 15 epochs. There are 3670 flower images which are divided into five sub folders according to the name of their class. 
 
 ## Dependecies
 1. This project is tested on CPU Core i5 (6th Gen), 8 GB RAM
